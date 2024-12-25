@@ -1,7 +1,15 @@
 # SH59_Keysystem V2
 This FiveM resource allows players to manage their vehicle keys.
-<br>It is based on [SH59_Keysystem](https://github.com/SteakHarpyie59/sh59_keysystem) brings a lot of improvements.
-
+<br>It is based on [SH59_Keysystem](https://github.com/SteakHarpyie59/sh59_keysystem) brings a lot of improvements such as:
+```diff
++ An (optional) rework with ox_lib
++ Security improvements in server.lua
++ Keeping most of the compatibility with scripts that were made for SH59_Keysystem (V1)
+- Deprecation of sh59_KeySystem:RemoveMoney event
+! The sh59_KeySystem:GiveKey event is not an NetEvent anymore, due to security reasons its now just an server event.
+! The sh59_KeySystem:RemoveKey event is not an NetEvent anymore, due to security reasons its now just an server event.
+! The sh59_KeySystem:RemoveAllKeys event is not an NetEvent anymore, due to security reasons its now just an server event.
+```
 ![This is an image](https://raw.githubusercontent.com/SteakHarpyie59/images-for-my-work/main/KeysysV2_Image.png)
 
 ## Overview
