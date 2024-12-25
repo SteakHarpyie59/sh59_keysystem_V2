@@ -44,7 +44,7 @@ Please keep in mind that I'm developing this resource as a hobby project, so I c
 
 ## Documentation
 ~~visit the Wiki Tab of this repository~~ *(SOON)*
-There will be a Wiki soon. Right now the [Wiki Tab of V1](https://github.com/SteakHarpyie59/sh59_keysystem/wiki) can explain pretty good.
+<br>There will be a Wiki soon. Right now the [Wiki Tab of V1](https://github.com/SteakHarpyie59/sh59_keysystem/wiki) can explain pretty good.
 <br>
 <br>
 <br>
